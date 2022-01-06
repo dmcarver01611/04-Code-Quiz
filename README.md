@@ -2,20 +2,17 @@
 
 ## Project
 
-Horiseon webpage features 3 major sections and a sidebar accompanied by navigational elements to guide you to them. With revised html tags and alt attributes for improved SEO and accessibility.
+I was tasked with creating a quiz using HTML, CSS, Javascript, Bootstrap and JQuery with a working timer, scoring system, and changing elements.
 
-## Deployed Website
+<img src="Assets\code quiz image.png">
 
-<img src="assets\images\01-html-css-git-homework-demo.png">
-
-<a href="https://dmcarver01611.github.io/01-html-css-code-refactoring/">Link to Webpage</a>
+<a href="https://dmcarver01611.github.io/04-Code-Quiz/">Link to Webpage</a>
 
 ## Work Done
 
-- Cleared div tags and replaced with more appropriate section tags
-- Adjusted css to fit new html changes
-- Removed excessive attributes
-- Fixed navigation link
-- Fixed web text size issues
-- Added title
-- Added alt attributes for SEO and Accessibility
+- Added/Created and adjusted css/html layout
+- Added working quiz with true or false questions 
+- Functioning timer
+- Time that drops when you miss a question
+- Saved high scores
+- Compact css that only uses a single card with multiple element changes with JQuery
